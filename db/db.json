@@ -1,0 +1,32 @@
+{
+  "endpoint": {
+    "likes": {
+      "Amo": {
+        "id": 1,
+        "likebility": "Amo",
+        "likebility_score": 3
+      },
+      "Adoro": {
+        "id": 2,
+        "likebility": "Adoro",
+        "likebility_score": 2
+      },
+      "Gosto": {
+        "id": 3,
+        "likebility": "Gosto",
+        "likebility_score": 1
+      },
+      "Nao gosto": {
+        "id": 4,
+        "likebility": "Nao gosto",
+        "likebility_score": -1
+      },
+      "Odeio": {
+        "id": 5,
+        "likebility": "Odeio",
+        "likebility_score": -2
+      }
+    }
+  },
+  "Opinions": []
+}
